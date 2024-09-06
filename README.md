@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, eu sou Gustavo Habib</h1>
 <h3 align="left">Formado em Análise e Desenvolvimento de Sistemas</h3>
 <br>
-- 🌱Já fiz vários cursos de **Python, C#, Vue**
+- 🌱Já fiz vários cursos de **Python, C#, Vue**<br>
 - 🌱Mas hoje estou mergulhando no mundo **Java**
 
 <h3 align="left">Conect-se:</h3>
