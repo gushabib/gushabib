@@ -29,11 +29,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gushabib)](https://github.com/gushabib/github-readme-stats)
 <br>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gushabib&show_icons=true) 
-<br>
-<br>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priva
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gushabib&show_icons=true)
