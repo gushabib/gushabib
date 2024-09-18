@@ -24,9 +24,5 @@
 <a href="https://www.linkedin.com/in/gustavo-habib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-habib/" height="30" width="40" /></a>
 <a href="https://discord.com/channels/GustavoHabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GustavoHabib#1934" height="30" width="40" /></a>
 </p>
-<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gushabib)](https://github.com/gushabib/github-readme-stats)
-<br>
-<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gushabib&show_icons=true)
