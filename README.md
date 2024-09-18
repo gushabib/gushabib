@@ -1,6 +1,5 @@
 <h1 align="left">Olá 👋, eu sou Gustavo Habib</h1>
-<hr>
-<br>
+<br><br>
 <h3>Sobre mim</h3>
 <hr>
 <p>&bull; Formado em Análise e Desenvolvimento de Sistemas pela Candido Mendes</p>
@@ -9,7 +8,6 @@
 <h3>Cursos e Certificados</h3>
 <hr>
 <p>&bull;  Participando do Santander Coders 2024 - Trilha de Backend (Java)</p>
-<hr>
 <p>&bull;  Minhas habilidades incluem desenvolvimento backend e noções de frontend, além de softskills (trabalho em equipe, resiliência, facilidade de aprendizado, boa comunicação oral e escrita, organização, atenção a detalhes, entre outras).</p>
 <br>
 <h3>Tecnologias</h3>
@@ -17,9 +15,9 @@
 <p>💻 Linguagens de programação: Java.</p>
 <p>🌐 Front-end: Javascript, HTML, CSS, Bootstrap.</p>
 <p>🖥️ Back-end: Java, C#.</p>
-<p>🗃️ Banco de dados: SQL Server, MySQL.</p>
+<p>🗃️ Banco de dados: DBISAM, MySQL.</p>
 <p>🧰 Ferramentas de Desenvolvimento: IntelliJ, Visual Studio Code.</p>
-
+<br>
 <h3 align="left">Conect-se:</h3>
 <hr>
 <p align="left">
