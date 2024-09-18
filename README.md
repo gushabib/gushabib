@@ -6,7 +6,7 @@
 
 <h3 align="left">Conect-se:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gustavo-habib-a831a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-habib/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-habib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-habib/" height="30" width="40" /></a>
 <a href="https://discord.gg/GustavoHabib#1934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GustavoHabib#1934" height="30" width="40" /></a>
 </p>
 
